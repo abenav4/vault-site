@@ -23,7 +23,7 @@ Built using: 🐍 Python, 👨🏻 Jenkins, 🐶 DataDog, 🔎 Elastic Search.
 
 
 
-### [Meower - Lightweight Twitter Alternative 😾](https://github.com/abenav4/Meower-Twitter-Alternative)
+### [Meower - Accessible Twitter Alternative 😾](https://github.com/abenav4/Meower-Twitter-Alternative)
 Meower is a lightweight, accessible and responsive Twitter alternative built for the modern web. It's cat-themed! 🐱
 
 Built using: 🪞Vue.js, ⚡ Electron, 🏕️ Firebase

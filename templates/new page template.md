@@ -1,5 +1,5 @@
 ---
-title: yeyeaya
+title: Example Title
 draft: false
 tags: []
 ---

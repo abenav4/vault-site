@@ -3,10 +3,14 @@ title: Resume
 draft: false
 tags:
 ---
-View PDF Format: 
-[[Abenav_Vijayakumaran_Resume.pdf]]
+### View PDF Format:
+
+![[public/pikachu2.png]]
+
+![[public/static/twitching.webm|twitching]]
 
 
+![[quartz/static/twitching.webm|twitching]]
 
 ### Education
 
@@ -30,7 +34,3 @@ Software Engineer Intern (May 2022 - Aug. 2022)
   
 [[Government of Canada 🇨🇦]] (Toronto)  
 Software Engineer Intern (Sept. 2021 - Dec. 2022)
-
-
-### PDF Format
-[[Abenav_Vijayakumaran_Resume.pdf]]

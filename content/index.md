@@ -12,4 +12,5 @@ linked to pagetest [[pagetest]]
 [[pika.png]]
 
 
-![[content/1e8.png]]
+[[content/1e8.png]]
+![[1e8 1.png]]

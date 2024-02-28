@@ -1,5 +1,5 @@
 ---
-title: Technical Projects
+title: technical projects
 draft: false
 tags:
 ---

@@ -22,8 +22,8 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      title: "backlinks",
+      noBacklinksFound: "no backlinks found",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -36,7 +36,7 @@ export default {
       createdWith: "Created with",
     },
     graph: {
-      title: "Graph View",
+      title: "graph view",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -47,7 +47,7 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
+      title: "search",
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {

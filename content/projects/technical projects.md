@@ -8,6 +8,11 @@ tags:
 (2022) HLS Livestreaming Application (Twitch.tv Alternative) built using 🍃 Node.js, 🎥 Video.js, 🥾 Bootstrap and 👨‍🔧 Nginx.  
 
 
+
+
+
+
+![[182185239-0969ff33-0c0e-4c3e-be34-2e73c0900697.webm]]
 Tags: Node.js, Video.js, Nginx, React, JavaScript, Twitch  
 
 Link: [https://github.com/abenav4/Twitching-Livestream-App](https://github.com/abenav4/Twitching-Livestream-App)

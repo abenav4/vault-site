@@ -1,8 +1,7 @@
 ---
-title: Example Titlee
+title: pagetest
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)sdfsdfs

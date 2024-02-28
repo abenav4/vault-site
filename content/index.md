@@ -2,7 +2,6 @@
 title: welcome to my website 👋🏿
 ---
 
-swag [[public/pikachu2.png]]
 
 Hi there, I'm a developer and writer from Toronto, Canada 🇨🇦.
   

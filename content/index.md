@@ -1,5 +1,5 @@
 ---
-title: Welcome to Filipino Community gaming 🇵🇭☀️🏝️🛺
+title: welcome to my website 🇵🇭☀️🏝️🛺
 ---
 
 This is a Filipino Community Community, 
@@ -8,3 +8,8 @@ And the Giga-Gamers, 🍠˚ ༘ ೀ⋆｡˚🍮
 Thanks for coming!
 
 linked to pagetest [[pagetest]]
+
+[[pika.png]]
+
+
+![[content/1e8.png]]

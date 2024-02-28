@@ -5,7 +5,7 @@ title: welcome to my website 🇵🇭☀️🏝️🛺
 This is a Filipino Community Community, 
 This goes out to all the swaggapinos out there🏝️🥥🛖🌾💫 
 And the Giga-Gamers, 🍠˚ ༘ ೀ⋆｡˚🍮
-Thanks for coming!
+Thanks for coming,, gigagamers united!
 
 linked to pagetest [[pagetest]]
 

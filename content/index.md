@@ -4,7 +4,7 @@ title: welcome to my website 👋🏿
 
 Hi there, I'm Abenav! I'm a developer and writer from Toronto, Canada 🇨🇦.
   
-I graduated from the University of Toronto with a bachelor's degree in Computer Science.
+I graduated from the [[University of Toronto]]with a bachelor's degree in Computer Science.
 
 I'm currently working as a developer at [[Ceridian]]. During my undergraduate years, I had the privilege of interning at [[Questrade]], [[Basis Technologies]] and the [[Government of Canada 🇨🇦]]. 
 

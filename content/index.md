@@ -6,3 +6,5 @@ This is a Filipino Community Community,
 This goes out to all the swaggapinos out there🏝️🥥🛖🌾💫 
 And the Giga-Gamers, 🍠˚ ༘ ೀ⋆｡˚🍮
 Thanks for coming!
+
+linked to pagetest [[pagetest]]

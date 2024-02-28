@@ -15,6 +15,6 @@ Feel free to check out some of the [[technical projects|projects]] I've been wor
 ---
 
   
-[GitHub](https://github.com/abenav4) |  [LinkedIn](https://www.linkedin.com/in/abenav)  | [Email](mailto:abenav123[at]gmail.com)
+[github](https://github.com/abenav4) |  [linkedin](https://www.linkedin.com/in/abenav)  | [email](mailto:abenav123[at]gmail.com)
 
 

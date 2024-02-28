@@ -6,7 +6,7 @@ tags:
 
 
 
-### [[Abenav_Vijayakumaran_Resume.pdf |complete resume in PDF format]] 
+### [[content/Abenav_Vijayakumaran_Resume.pdf|complete resume in PDF format]] 
 ### education
 
 [[University of Toronto]]   (Sept. 2018 - Dec. 2023)  

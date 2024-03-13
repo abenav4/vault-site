@@ -19,7 +19,7 @@ Dean's List 2018 - 2023
 ### experience
 
 [[Ceridian]] (Toronto)  
-Software Engineer (May. 2023 - Present)  
+Software Engineer (May 2023 - Present)  
   
 [[Questrade]] Financial Group (Toronto)  
 Software Engineer Intern (Jan. 2023 - Apr. 2023)  

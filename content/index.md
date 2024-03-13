@@ -13,7 +13,6 @@ Thank you for visiting my site! Feel free to check out some of the [[technical p
 If you're so inclined, my [[writing\]] can be found here.
 
 ---
-
   
 [github](https://github.com/abenav4) |  [linkedin](https://www.linkedin.com/in/abenav)  | [email](mailto:abenav123[at]gmail.com)
 

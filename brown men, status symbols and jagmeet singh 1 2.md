@@ -74,7 +74,7 @@ https://www.jstor.org/stable/10.2979/spectrum.4.2.01?seq=6
 
 Activist and former teammate Etan Thomas recalled that "He mentioned an event at an all-white golf club, where of course they let Michael play, but there were no Black members, and how Michael threatened at the last minute to back out if they didn’t change their policy." Thomas had then told Michael, ‘That’s something people should know and then maybe they wouldn’t be saying the things they do about you.’ ‌to which MJ responded, ‘I don’t do that.’
 
-MJ knew that being too overtly associated with social justice causes would hurt his bottom line. For that very reason, he could never be an agent for change in the way that other basketball greats, like Bill Russell and Kareem Abdul Jabbar were. But in a way only a post-racial, commodifiable black superstar could, Jordan made it so that corporate America thought it sensible to dish out hundreds of millions of dollars on black athletes. 
+MJ knew that being too overtly associated with social justice causes would hurt his bottom line. For that very reason, he could never be an agent for change in the way that other basketball greats, like Bill Russell and Kareem Abdul Jabbar were. But in a way that only a post-racial, commodifiable black superstar could, Jordan made it so that corporate America thought it sensible to dish out hundreds of millions of dollars on black athletes. 
 
 
 "Unfortunately, we had to do something great for us to be viewed equally".
@@ -82,7 +82,7 @@ Transcend is a very special sounding word, but in this context, it's ...
 https://www.youtube.com/watch?v=hiSQTMCbuSo
 
 
-The race-transcending status bestowed to Jordan was fleeting, as it is for all minoritized peoples. Once word broke loose that Jordan had settled a gambling loss, media companies found it lucrative to pull Jordan back into the dominant cultural narrative surrounding black men in America. News reporters couldn't help but even tie it to the murder of his father, suggesting that it might have been payback for an unsettled debt. This then is the trap of any purported race-transcendence - so long as you (and all members of your group, really) walk the tight rope perfectly, you will be tolerated. But your elevated status is flexible, and you can be collapsed into the group at a moment's notice. Similarly, at another moment's notice, he was once more the All-American titan once the NBA finals were underway. America's darling again. 
+The race-transcending status bestowed to Jordan was fleeting, as it is for all minoritized peoples. Once word broke loose that Jordan had settled a gambling loss, media companies found it lucrative to pull Jordan back into the dominant cultural narrative surrounding black men in America. News reporters couldn't help but even tie it to the murder of his father, suggesting that it might have been payback for an unsettled debt. This then is the trap of any purported race-transcendence - so long as you (and all members of your group, really) walk the tight rope perfectly, you will be tolerated. But your elevated status is flexible, and you can be collapsed into the group at a moment's notice. Similarly, at another moment's notice, he was once more the All-American titan once the NBA finals were underway. America's darling once more. 
 
 
 https://www.nytimes.com/1992/10/23/sports/bulls-jordan-says-check-covered-gambling-losses.htm
@@ -155,6 +155,12 @@ Drafted first overall in the 1996 draft, Allen Iverson, one of the greatest guar
 
 
 ![[Pasted image 20240310012253.png]]
+
+
+Allen Iverson shifted the culture of the game and gave players the agency to have pride in their culture.
+Successive waves of players took inspiration from it.
+Per Shaq's interview: https://youtu.be/HgA-l-pGZP0?t=786
+
 
 This fear of losing the white consumer would culminate at the so-called "Malice at the Palace", wherein multiple black players were prominently involved in a scuffle between players and fans (that was instigated by a white fan throwing a drink onto black forward Ron Artest, who was lying down on the scorer's table). The black players, who were expected to passively accept violence at the hands of white spectators were chastised, were suspended for a year without pay, despite being cleared of wrongdoing by criminal investigations.
 

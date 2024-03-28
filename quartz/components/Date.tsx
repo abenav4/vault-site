@@ -21,11 +21,23 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date 
 export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
   return d.toLocaleDateString(locale, {
     year: "numeric",
+    month: "long",
+    day: "2-digit",
+  }).toLowerCase();
+}
+
+export function formatDateForFolder(d: Date, locale: ValidLocale = "en-US"): string {
+  return d.toLocaleDateString(locale, {
+    year: "numeric",
     month: "short",
     day: "2-digit",
-  })
+  }).toLowerCase();
 }
 
 export function Date({ date, locale }: Props) {
   return <>{formatDate(date, locale)}</>
+}
+
+export function FolderDate({ date, locale }: Props) {
+  return <>{formatDateForFolder(date, locale)}</>
 }

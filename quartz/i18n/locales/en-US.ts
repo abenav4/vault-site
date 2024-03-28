@@ -26,8 +26,8 @@ export default {
       noBacklinksFound: "no backlinks found",
     },
     themeToggle: {
-      lightMode: "Light mode",
-      darkMode: "Dark mode",
+      lightMode: "light mode",
+      darkMode: "dark mode",
     },
     explorer: {
       title: "explorer",
@@ -39,7 +39,7 @@ export default {
       title: "graph view",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "recent notes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -51,23 +51,23 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "table of contents",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `${minutes} minute read`,
     },
   },
   pages: {
     rss: {
-      recentNotes: "Recent notes",
+      recentNotes: "recent notes",
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      title: "not Found",
+      notFound: "either this page is private or doesn't exist.",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "folder",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
@@ -76,8 +76,8 @@ export default {
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
         count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`,
+      showingFirst: ({ count }) => `showing first ${count} tags.`,
+      totalTags: ({ count }) => `found ${count} total tags.`,
     },
   },
 } as const satisfies Translation

@@ -180,7 +180,7 @@ https://bleacherreport.com/articles/2476540-an-icon-at-40-the-untold-story-of-al
 ---
 ##### addendum
 
-originally, this was piece was centered around jagmeet singh and the way the media lambasted him for carrying a versace bag. right-wing 'commentators' took aim at the aesthetics of politics rather than material outcomes. terribly novel phenomenon, i know, and thank heavens, most leftists considered this a moot talking point. however, i wanted to analyze the issue from the lens of race, class, religion and political lines
+originally, this piece was centered around jagmeet singh and the way the media lambasted him for carrying a versace bag. right-wing 'commentators' took aim at the aesthetics of politics rather than material outcomes. terribly novel phenomenon, i know, and thank heavens, most leftists considered this a moot talking point. however, i wanted to analyze the issue from the lens of race, class, religion and political lines
 
 as the writing grew, i figured i'd keep it focused on the nba. *scope creep*.
 

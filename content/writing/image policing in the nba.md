@@ -64,7 +64,7 @@ In his authenticity, Iverson challenged the status quo. Characterizing Iverson's
 
 ![[Pasted image 20240328075302.png]]
 
-There was a multiplicity in black identity and experience in America that was cloaked by the palateable tunes these black athletes had been forced to sing. Iverson's authenticity set the table for successive generations of racialized players to present authentically without risk of being chastised or losing endorsement deals. The new generation of hoopers were allowed to be Black athletes, "but they were Black men first, and the NBA had to, in some way or another, reconcile all of this with their incredible basketball skills" \[22]. 
+There was a multiplicity in black identity and experience in America that was cloaked by the palatable tunes these black athletes had been forced to sing. Iverson's authenticity set the table for successive generations of racialized players to present authentically without risk of being chastised or losing endorsement deals. The new generation of hoopers were allowed to be Black athletes, "but they were Black men first, and the NBA had to, in some way or another, reconcile all of this with their incredible basketball skills" \[22]. 
 
 
 
@@ -93,9 +93,9 @@ This fear of losing the white consumer would boil over at the so-called "Malice 
 
 ![[Pasted image 20240310031204.png]]
 
-The NBA had a "thuggish" image problem on their hands. Commissioner David Stern couldn't fathom the idea that the league's image that he had so carefully engineered over the last two decades might crumble away. For fear of losing white viewership \[26], and in a shoddy attempt to boost (dwindling) ratings, Stern introduced a "business casual" dress code in 2005 \[27]. At play virtually whenever the player was not on the court, the dress code demanded chains, pendants and medallions be tucked in if worn at all. Sleeveless shirts, tees, headgear of any sort, sunglasses and headphones were prohibited. The most jarring inclusion was Stern's ban on *sneakers* \[28]. Of course, black players hardly had the wool pulled over their eyes and [rightly called this out](https://ballislife.com/remembering-when-the-nba-created-a-dress-code-in-2005-was-it-racist/) as an effort limit black expression. Some players were calling it the "A.I. rule" \[29]. 
+The NBA had a "thuggish" image problem on their hands. Commissioner David Stern couldn't fathom the idea that the league's image that he had so carefully engineered over the last two decades might crumble away. For fear of losing white viewership \[26], and in a shoddy attempt to boost (dwindling) ratings, Stern introduced a "business casual" dress code in 2005 \[27]. At play virtually whenever the player was not on the court, the dress code demanded chains, pendants and medallions be tucked in if worn at all. Sleeveless shirts, tees, headgear of any sort, sunglasses and headphones were prohibited. The most jarring inclusion was Stern's ban on *sneakers* \[28]. Of course, black players hardly had the wool pulled over their eyes and [rightly called this out](https://ballislife.com/remembering-when-the-nba-created-a-dress-code-in-2005-was-it-racist/) as an effort to limit black expression. Some players were calling it the "A.I. rule" \[29]. 
 
-The idea then was that black authenticity was not salable. Authenticity would have to be expressed via a narrow scope of sanitized, palateable blackness. The NBA, the entity that stood to profit from black bodies, was convinced that it needed to police the expression of those same bodies. By extension, the (corporate perceptions of the) white consumer base policed the image of black professionalism.
+The idea then was that black authenticity was not salable. Authenticity would have to be expressed via a narrow scope of sanitized, palatable blackness. The NBA, the entity that stood to profit from black bodies, was convinced that it needed to police the expression of those same bodies. By extension, the (corporate perceptions of the) white consumer base policed the image of black professionalism.
 
 Even after this league-wide imposition, Iverson would be the one pushing the needle. Iverson would "abide" by the new dress code by leaning entirely too far into the emerging trend of oversized suits \[30]. 
 ![[Pasted image 20240328081344.png]]
@@ -174,8 +174,6 @@ https://bleacherreport.com/articles/2476540-an-icon-at-40-the-untold-story-of-al
 \[30] https://www.cbssports.com/nba/news/iguodala-iverson-bought-baggy-suits-to-comply-with-nba-dress-code/
 \
 \[31] https://www.nielsen.com/insights/2015/hoop-dreams-multicultural-diversity-in-nba-viewership/
-\
-\[32] https://andscape.com/features/allen-iverson-accents-the-positive-during-nba-all-star-weekend/
 
 ---
 ##### addendum

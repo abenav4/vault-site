@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
-The prototypical image of western professionalism does not map onto minoritized bodies. To circumvent this, and to enter white-dominated domains, people of colour must transcend the dominant cultural narratives they exist in. This is all the more true in the case of highly visible positions that will face scrutiny from a white public. 
+The prototypical image of western professionalism does not map neatly onto minoritized bodies. To circumvent this, and to enter white-dominated domains, people of colour must transcend the dominant cultural narratives they exist in. This is all the more true in the case of highly visible positions that will face scrutiny from a white public. 
 
 
 ### his airness transcending blackness

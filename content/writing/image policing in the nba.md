@@ -184,7 +184,7 @@ as the writing grew, i figured i'd keep it focused on the nba. *scope creep*.
 
 more importantly, i thought it quite dishonest to transplant the unique suffering of black players in the league onto jagmeet and indians in the west. i think it'd have made sense if i *really* fleshed things out, and i was well on my way to doing that, but maybe that's for another day (likely not lol)
 
-i may as well nudge at where i was going with that though - imo, sadly, jagmeet's identity as a brown, sikh, canadian man is malleable and collapsible, in the way multiculturalism often is. the status symbols he adorns himself with are partially what legitimize him in the eyes of his voter base. he's not a champion of the working class, sure, but it's his policies that are the tell and not his garments. 
+i may as well nudge at where i was going with that though - imo, sadly, jagmeet's public identity as a brown, sikh, canadian man is malleable and collapsible, in the way multiculturalism often is. the status symbols he adorns himself with are partially what legitimize him in the eyes of his voter base. he's not a champion of the working class, sure, but it's his policies that are the tell and not his garments. 
 
 additionally, this writing is eh, alright. i like some of it. these references are way, way too academic probably, and i should really cite those photos. i'll be on that in a jiffy. or not. the pictures and clips could be more relevant, but it's sometimes a little hard to find things from this era. i'll hopefully patch those issues up in time.
 

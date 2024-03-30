@@ -3,4 +3,4 @@ title: writing
 draft: false
 tags:
 ---
-this will probably be updated very rarely, unfortunately! i'm always working on drafts though. 
+This will probably be updated very rarely, unfortunately! I'm always making drafts and notes, though. 

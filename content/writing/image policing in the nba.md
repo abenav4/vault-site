@@ -186,7 +186,7 @@ more importantly, i thought it quite dishonest to transplant the unique sufferin
 
 i may as well nudge at where i was going with that though - imo, sadly, jagmeet's public identity as a brown, sikh, canadian man is malleable and collapsible, in the way multiculturalism often is. the status symbols he adorns himself with are partially what legitimize him in the eyes of his voter base. he's not a champion of the working class, sure, but it's his policies that are the tell and not his garments. 
 
-additionally, this writing is eh, alright. i like some of it. these references are way, way too academic probably, and i should really cite those photos. i'll be on that in a jiffy. or not. the pictures and clips could be more relevant, but it's sometimes a little hard to find things from this era. i'll hopefully patch those issues up in time.
+additionally, this writing is eh, alright. i like some of the prose. these references are way, way too academic probably, and i should really cite those photos. there are probably too many of them. i'll be on that in a jiffy. or not. the pictures and clips could be more relevant, but it's sometimes a little hard to find things from this era. i'll hopefully patch those issues up in time.
 
 a huge part of this was just publishing something well-researched that had to do with racial politics, so anything from here on out will probably be less crummy.
 

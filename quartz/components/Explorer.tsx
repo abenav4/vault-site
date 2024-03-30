@@ -17,20 +17,20 @@ const defaultOptions = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
+    // Sort order: files first, then folders. Sort folders and files alphabetically
+    if ((a.file && b.file) || (!a.file && !b.file)) {
+        // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+        // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+        return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+        })
     }
 
     if (a.file && !b.file) {
-      return 1
+        return -1; // Files come before folders
     } else {
-      return -1
+        return 1; // Folders come after files
     }
   },
   filterFn: (node) => node.name !== "tags",

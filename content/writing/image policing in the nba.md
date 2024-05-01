@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
-The prototypical image of western professionalism does not map neatly onto minoritized bodies. To circumvent this, and to enter white-dominated domains, people of colour must transcend the dominant cultural narratives they exist in. This is all the more true in the case of highly visible positions that will face scrutiny from a white public. 
+The prototypical image of western professionalism does not map neatly onto minoritized bodies. To circumvent this, and to enter white-dominated domains, people of colour must transcend the dominant cultural narratives they exist in. This is all the more true in the case of individuals in highly visible positions that will face scrutiny from a white public. 
 
 
 ### his airness transcending blackness
@@ -100,7 +100,7 @@ The idea then was that black authenticity was not salable. Authenticity would ha
 Even after this league-wide imposition, Iverson would be the one pushing the needle. Iverson would "abide" by the new dress code by leaning entirely too far into the emerging trend of oversized suits \[30]. 
 ![[Pasted image 20240328081344.png]]
 
-Eventually, the league would quietly phase out their dress code restrictions. This next generation of hoopers had taken from A.I. and was going to be authentic, and the league couldn't police all of them. The modern NBA has actually become something of a haven for (certain forms of) black expression, opting not to police the opinions of black stars on black issues (which was quite antithetical to the [NFL's approach](https://www.nytimes.com/2018/06/22/sports/nfl-nba-social-justice-protests.html)). Of course, this is abetted by the shifting demographics of league viewership \[31], but the point still stands. 
+Eventually, the league would quietly phase out their dress code restrictions. This next generation of hoopers had taken from A.I. and was going to be authentic, and the league couldn't police all of them. The modern NBA has actually become something of a haven for (certain forms of) black expression, opting not to police the opinions of black stars on black issues (which was quite antithetical to the [NFL's approach](https://www.nytimes.com/2018/06/22/sports/nfl-nba-social-justice-protests.html)). Of course, this is also facilitated by the shifting demographics of league viewership \[31], but the point still stands. 
 
 ![[Pasted image 20240328081738.png]]
 

@@ -18,7 +18,7 @@ Dean's List 2018 - 2023
 
 ### experience
 
-[[Ceridian]] (Toronto)  
+[[Dayforce]] (Toronto)  
 Software Engineer (May 2023 - Present)  
   
 [[Questrade]] Financial Group (Toronto)  

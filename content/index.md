@@ -1,5 +1,8 @@
 ---
 title: welcome to my website 👋🏿
+draft: false
+tags:
+date: 2024-04-14
 ---
 
 Hi there, I'm Abenav! I'm a developer and writer from Toronto, Canada 🇨🇦.

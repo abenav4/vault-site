@@ -2,6 +2,7 @@
 title: resume
 draft: false
 tags:
+date: 2024-06-19
 ---
 
 ### [[Abenav_Vijayakumaran_Resume.pdf|complete resume in PDF format]]

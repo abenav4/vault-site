@@ -1,5 +1,5 @@
 ---
-title: i'm grateful you've stopped by
+title: i'm grateful you've stopped by.
 draft: false
 tags:
 date: 2024-04-14

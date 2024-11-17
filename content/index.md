@@ -1,9 +1,11 @@
 ---
-title: welcome to my website 👋🏿
+title: i'm grateful you've stopped by
 draft: false
 tags:
 date: 2024-04-14
 ---
+
+![alt text](familiar.svg)
 
 Hi there, I'm Abenav! I'm a developer and writer from Toronto, Canada 🇨🇦.
 

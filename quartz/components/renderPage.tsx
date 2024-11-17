@@ -234,12 +234,12 @@ export function renderPage(
                   ))}
                 </Header>
                 <div class="popover-hint">
-                  {slug !== "index" &&
-                    beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
+                  {beforeBody.map((BodyComponent) => (
+                    <BodyComponent {...componentData} />
+                  ))}
                 </div>
               </div>
               <Content {...componentData} />
-              <hr />
               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
@@ -266,6 +266,7 @@ function DappledLight() {
       <div id="glow"></div>
       <div id="glow-bounce"></div>
       <div class="perspective">
+        <div id="leaves"></div>
         <div id="blinds">
           <div class="shutters">
             <div class="shutter"></div>

@@ -1,6 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
 
 [saved-theme="dark"] body[data-slug="index"] img[src*="boats_and_people.svg"] {
   filter: invert(100%);
@@ -14,12 +15,8 @@ body {
   font-synthesis: style;
 }
 
-img[src*="banner.svg"] {
+img[src*="boats_and_people.svg"] {
   opacity: 0.8;
-}
-
-[saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
-  filter: invert(100%);
 }
 
 .left {

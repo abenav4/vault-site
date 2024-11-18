@@ -5,7 +5,7 @@ tags:
 date: 2024-04-14
 ---
 
-![alt text](familiar.svg)
+![boats and people](boats_and_people.svg)
 
 Hi there, I'm Abenav! I'm a developer and writer from Toronto, Canada 🇨🇦.
 

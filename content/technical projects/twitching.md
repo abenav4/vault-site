@@ -1,5 +1,5 @@
 ---
-title: Twitching, an HLS Livestreaming App! 🎧 🔌
+title: HLS-Based Livestreaming Platform
 draft: false
 tags:
 date: 2023-04-14

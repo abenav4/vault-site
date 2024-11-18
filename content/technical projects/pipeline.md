@@ -1,5 +1,5 @@
 ---
-title: Continuous Integration 🛠️ DevOps Pipeline 👨🏿‍🔧
+title: CI/CD DevOps Framework
 draft: false
 tags:
 date: 2022-12-23

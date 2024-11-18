@@ -1,5 +1,5 @@
 ---
-title: Meower - Accessible Twitter Alternative 😾
+title: WCAG 2.2-Compliant Social Media App
 draft: false
 tags:
 date: 2022-05-02
@@ -7,7 +7,7 @@ date: 2022-05-02
 
 ### [GitHub link 😾](https://github.com/abenav4/Meower-Twitter-Alternative)
 
-Meower is a 😸 cat-themed 😾, responsive Twitter Clone built for the modern web :)
+Meower is a cat-themed, responsive Twitter (or "X") alternative built for the modern web! It is focused on being lightweight and accessible. To this end, it aims to be [WCAG 2.2](https://www.w3.org/TR/WCAG22/) compliant.
 
 It uses 🪞 Vue.js and ⚡ Electron for the frontend and 🔥 Firebase for the backend.
 

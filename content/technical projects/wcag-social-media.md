@@ -11,7 +11,7 @@ Meower is a cat-themed, responsive Twitter (or "X") alternative built for the mo
 
 It uses 🪞 Vue.js and ⚡ Electron for the frontend and 🔥 Firebase for the backend.
 
-![[183252839-5094a60f-2372-4094-9e5a-3e4b23f22c93.webm|183252839-5094a60f-2372-4094-9e5a-3e4b23f22c93]]
+## ![[183252839-5094a60f-2372-4094-9e5a-3e4b23f22c93.webm|183252839-5094a60f-2372-4094-9e5a-3e4b23f22c93]]
 
 ---
 

@@ -16,7 +16,7 @@ body {
 }
 
 img[src*="boats_and_people.svg"] {
-  opacity: 0.8;
+  opacity: 0.88;
 }
 
 .left {
@@ -90,27 +90,6 @@ audio::-webkit-media-controls-panel {
         animation-delay: #{0.1 * $j + 0.4 * $i}s;
       }
     }
-  }
-}
-
-// hack to duplicate the fade-in animation so that we reset the animation in both directions
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes fade2 {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
   }
 }
 

@@ -166,14 +166,12 @@ https://bleacherreport.com/articles/2476540-an-icon-at-40-the-untold-story-of-al
 
 originally, this piece was centered around jagmeet singh and the way the media lambasted him for carrying a versace bag. right-wing 'commentators' took aim at the aesthetics of politics rather than material outcomes. terribly novel phenomenon, i know, and thank heavens, most folks considered this a moot talking point. however, i wanted to analyze the issue from the lens of race, class, religion and political lines
 
-as the writing grew, i figured i'd keep it focused on the nba. _scope creep_.
+as the writing grew, i figured i'd keep it focused on the nba. something something _scope creep_
 
 more importantly, i thought it quite dishonest to transplant the unique suffering of black players in the league onto jagmeet and indians in the west. i think it'd have made sense if i _really_ fleshed things out, and i was well on my way to doing that, but maybe that's for another day (likely not lol)
 
-i may as well nudge at where i was going with that though - imo, sadly, jagmeet's public identity as a brown, sikh, canadian man is malleable and collapsible, in the way multiculturalism often is. the status symbols he adorns himself with are partially what legitimize him in the eyes of his voter base. he's not a champion of the working class, sure, but it's his policies that are the tell and not his garments.
+i may as well nudge at where i was going with that though - imo, sadly, jagmeet's public identity as a brown, Sikh, canadian man is malleable and collapsible, in the way multiculturalism often is. the status symbols he adorns himself with are partially what legitimize him in the eyes of his voter base. he's not a champion of the working class, sure, but it's his policies that are the tell and not his garments.
 
 additionally, this writing is eh, alright. i like some of the prose. these references are way, way too academic probably, and i should really cite those photos. there are probably too many of them. i'll be on that in a jiffy. or not. the pictures and clips could be more relevant, but it's sometimes a little hard to find things from this era. i'll hopefully patch those issues up in time.
 
-a huge part of this was just publishing something well-researched that had to do with racial politics, so anything from here on out will probably be less crummy.
-
-thank you for your time x
+any writing i publish from here on out will probably be less crummy - thank you for your time! x

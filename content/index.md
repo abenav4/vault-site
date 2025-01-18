@@ -7,7 +7,7 @@ date: 2024-04-14
 
 ![boats and people](boats_and_people.svg)
 
-Hi there, I'm Abenav! I'm a developer and writer from Toronto, Canada 🇨🇦.
+Hi there, I'm Abenav! I'm a developer and writer from [Tkarón:to](https://decolonialatlas.wordpress.com/2015/02/04/haudenosaunee-country-in-mohawk-2/) (colonially known as Toronto), Canada.
 
 <!-- This note is just for me: Remember to update the portfolio section next month. Read this land acknowledgement: https://anisetozaatar.com/land-acknowledgement/-->
 

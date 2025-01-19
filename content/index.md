@@ -8,7 +8,7 @@ date: 2024-04-14
 ![america](america.svg)
 
 
-Hi there, I'm Abenav! I'm a developer and writer from [Tkarón:to](https://yellowheadinstitute.org/2023/04/11/tkaronto-is-a-place-for-sustenance/) (colonially known as Toronto), Canada.
+Hi there, I'm Abenav! I'm a developer and writer from [Tkarón:to](https://www.blogto.com/city/2020/08/why-toronto-tkaronto/) (colonially known as Toronto), Canada.
 
 I graduated from the [[University of Toronto]] with a bachelor's degree in Computer Science.
 

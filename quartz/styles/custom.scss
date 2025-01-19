@@ -3,7 +3,11 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-[saved-theme="dark"] body[data-slug="index"] img[src*="boats_and_people.svg"] {
+[saved-theme="dark"] img[src*="boats_and_people.svg"] {
+  filter: invert(100%);
+}
+
+[saved-theme="dark"] img[src*="america.svg"] {
   filter: invert(100%);
 }
 
@@ -16,7 +20,11 @@ body {
 }
 
 img[src*="boats_and_people.svg"] {
-  opacity: 0.8;
+  opacity: 0.9;
+}
+
+img[src*="america.svg"] {
+  opacity: 0.75;
 }
 
 .left {
@@ -135,12 +143,6 @@ audio::-webkit-media-controls-panel {
   --shadow: #1a1917;
   --bounce-light: #f5d7a6;
   --timing-fn: cubic-bezier(0.455, 0.19, 0, 0.985);
-
-  body.animation-ready & {
-    animation-play-state: running;
-    animation-duration: 1s;
-    animation-name: sunrise;
-  }
 
   [saved-theme="dark"] body.animation-ready & {
     animation-duration: 1.5s;
@@ -285,6 +287,7 @@ audio::-webkit-media-controls-panel {
   }
 }
 
+// neither sunrise nor sunset do anything atm i think
 @keyframes sunrise {
   0% {
     background-color: var(--night);

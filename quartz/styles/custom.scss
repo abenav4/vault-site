@@ -101,27 +101,6 @@ audio::-webkit-media-controls-panel {
   }
 }
 
-// hack to duplicate the fade-in animation so that we reset the animation in both directions
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes fade2 {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-
 // dappled light
 #dappled-light {
   animation-duration: 0s;

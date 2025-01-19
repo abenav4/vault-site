@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪔 abenav ",
+    pageTitle: "🪔 abenav ", // coconut?
     enableSPA: true,
     enablePopovers: true,
     analytics: {

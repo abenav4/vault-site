@@ -11,6 +11,14 @@
   filter: invert(100%);
 }
 
+[saved-theme="dark"] img[src*="kazakhstan.svg"] {
+  filter: invert(100%);
+}
+
+[saved-theme="dark"] img[src*="benin.svg"] {
+  filter: invert(100%);
+}
+
 body {
   position: relative;
   min-height: 100vh;
@@ -25,6 +33,14 @@ img[src*="boats_and_people.svg"] {
 
 img[src*="america.svg"] {
   opacity: 0.75;
+}
+
+img[src*="kazakhstan.svg"] {
+  opacity: 0.72;
+}
+
+img[src*="benin.svg"] {
+  opacity: 0.74;
 }
 
 .left {
@@ -266,7 +282,6 @@ audio::-webkit-media-controls-panel {
   }
 }
 
-// neither sunrise nor sunset do anything atm i think
 @keyframes sunrise {
   0% {
     background-color: var(--night);

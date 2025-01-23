@@ -5,6 +5,8 @@ tags:
 date: 2024-06-19
 ---
 
+![boats_and_people](boats_and_people.svg)
+
 ### [[Abenav_Vijayakumaran_Resume.pdf|complete resume in PDF format]]
 
 ### education

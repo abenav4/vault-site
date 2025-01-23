@@ -7,7 +7,6 @@ date: 2024-04-14
 
 ![america](america.svg)
 
-
 Hi there, I'm Abenav! I'm a developer and writer from [Tkarón:to](https://archive.themedium.ca/arts/reclaim-torontos-origins/) (colonially known as Toronto), Canada.
 
 I graduated from the [[University of Toronto]] with a bachelor's degree in Computer Science.

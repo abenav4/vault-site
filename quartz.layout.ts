@@ -28,17 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-<<<<<<< HEAD
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["miscellaneous"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })),
-=======
     Component.Flex({
       components: [
         {
@@ -50,7 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
->>>>>>> upstream/v4
   ],
   right: [
     Component.Graph(),
@@ -65,17 +53,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-<<<<<<< HEAD
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["miscellaneous"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })),  ],
-=======
     Component.Flex({
       components: [
         {
@@ -87,6 +64,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
->>>>>>> upstream/v4
   right: [],
 }

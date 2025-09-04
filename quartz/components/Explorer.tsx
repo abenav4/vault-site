@@ -55,9 +55,8 @@ const defaultOptions: Options = {
 
     if (!a.isFolder && b.isFolder) {
       return 1
->>>>>>> upstream/v4
     } else {
-        return 1; // Folders come after files
+      return 1 // Folders come after files
     }
   },
   filterFn: (node) => node.slugSegment !== "tags",

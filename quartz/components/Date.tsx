@@ -35,7 +35,7 @@ export function formatDateForFolder(d: Date, locale: ValidLocale = "en-US"): str
 }
 
 export function Date({ date, locale }: Props) {
-  return <>{formatDate(date, locale)}</>
+  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
 }
 
 export function FolderDate({ date, locale }: Props) {

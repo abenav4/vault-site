@@ -28,16 +28,17 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-
-    Component.Flex({
-      direction: "row",
-      components: [
-        { Component: Component.Search(), grow: true },
-        { Component: Component.Darkmode() },
-        // { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(
+      Component.Explorer({
+        // filterFn: (node) => {
+        //   // set containing names of everything you want to filter out
+        //   const omit = new Set(["miscellaneous"])
+        //   return !omit.has(node.name.toLowerCase())
+        // },
+      }),
+    ),
   ],
   right: [
     Component.Graph(),

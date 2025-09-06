@@ -37,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         //   const omit = new Set(["miscellaneous"])
         //   return !omit.has(node.name.toLowerCase())
         // },
+        // nothing
       }),
     ),
   ],

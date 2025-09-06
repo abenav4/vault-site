@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    // btw i removed some readermode thing to be lazy xd
     Component.DesktopOnly(
       Component.Explorer({
         // filterFn: (node) => {

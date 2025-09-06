@@ -41,9 +41,9 @@ const defaultOptions: Options = {
     }
 
     if (!a.isFolder && b.isFolder) {
-      return 1
+      return -1 // files (resume) come before folder
     } else {
-      return -1
+      return 1
     }
   },
 

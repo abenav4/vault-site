@@ -7,12 +7,12 @@ date: 2024-06-19
 
 ![boats_and_people](boats_and_people.svg)
 
-### [[Abenav_Vijayakumaran_Resume.pdf|complete resume in PDF format]]
+<!-- ### [[Abenav_Vijayakumaran_Resume.pdf|complete resume in PDF format]] -->
 
 ### education
 
 [[University of Toronto]] (Sept. 2018 - Dec. 2023)  
-HBSc. Computer Science Co-op  
+HBSc Computer Science Co-op  
 UofT's Scholar's Entrance Award  
 Dean's List 2018 - 2023
 

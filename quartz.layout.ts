@@ -44,7 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// Make list page layout the exact same as content page layout
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -62,9 +61,5 @@ export const defaultListPageLayout: PageLayout = {
       }),
     ),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [],
 }

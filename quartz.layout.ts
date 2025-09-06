@@ -29,11 +29,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
-        // filterFn: (node) => {
-        //   // set containing names of everything you want to filter out
-        //   const omit = new Set(["miscellaneous"])
-        //   return !omit.has(node.name.toLowerCase())
-        // },
+        filterFn: (node) => {
+          const omit = new Set(["miscellaneous", "misc"])
+
+          if (node.isFolder) {
+            // Use the public displayName property
+            return !omit.has(node.displayName.toLowerCase())
+          }
+          return true // keep all files
+        },
       }),
     ),
   ],
@@ -53,11 +57,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
-        // filterFn: (node) => {
-        //   // set containing names of everything you want to filter out
-        //   const omit = new Set(["miscellaneous"])
-        //   return !omit.has(node.name.toLowerCase())
-        // },
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["miscellaneous"])
+          return !omit.has(node.name.toLowerCase())
+        },
       }),
     ),
   ],
